@@ -1,4 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Javi Lara! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+## <picture><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg0a21zbzRtejRzZHM4Yjl3eWUybm94NHd6dmNidno3YjIzYWhiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IZqFT8uUd5qPWxjasy/giphy.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV3bnEwMHB5ZzNhc3oxNWhtdWVnNWRlNzRrb214M2l4dzE1YTIzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width = 250px></picture>
+
+<br>
+
+- 🌟 Passionate about web development and eager to grow
+- 🚀 Driven by curiosity and a love for learning new tech
+- 💻 Committed to improving and staying ahead in web dev
+- 🌱 Always ready to learn and adapt to the latest tools
+- 💪 Focused on growth and mastering modern web frameworks
+- 🧠 Excited to expand my skills and evolve as a developer
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 ### Frontend & UI Frameworks
 <div style='display: flex;'>
